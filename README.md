@@ -2,7 +2,7 @@
 
 ## NOTE: writing in progress
 
-*Note: For non-opinionated a template, go to [state0_template](https://github.com/TheProductiveDeveloper/state0_template).*
+*Note: For the non-opinionated template, go to [state0_template](https://github.com/TheProductiveDeveloper/state0_template).*
 
 state0 is a stable, modern, easy to configure and opinionated Linux (configuration as code postinstall script). It is conceptually similar to [Omarchy](https://omarchy.org/), but production-stable and easier to make your own. This setup script will help you to quickly init new machines for your personal & professional use with all your packages, configuration and settings installed in 10-30mins. It also includes CI via GitHub Actions so you can be always certain that the configuration you are applying is not broken.
 
